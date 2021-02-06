@@ -1,3 +1,3 @@
 # hello-world
 This is my first repository on GitHub
-I love to :love: 
+I love to :heart: 
